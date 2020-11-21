@@ -30,7 +30,7 @@
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priya-jain-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![priya_jain_dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priya_jain_dev)](https://github.com/anuraghazra/github-readme-stats)
+[![priya_jain_dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priya_dev)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://dev.to/priyajain6651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="priyajain6651" height="20" width="20" /></a>
 <a href="https://twitter.com/priyajain6651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyajain6651" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/priya-jain-41b6a8115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priya-jain-41b6a8115" height="20" width="20" /></a>
