@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priya jain</h1>
 <h3 align="center">A passionate self-taught full stack developer from India.</h3>
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="my-personal-project"/>
 </p>
 - 🔭 I’m currently working as Full stack developer
 - 🌱 I’m currently learning Kotlin + Back to Android
@@ -15,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=priya-jain-dev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=priya-jain-dev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Priya's github stats" />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priya-jain-dev&layout=compact&theme=material-palenight" />
 <!--[![priya_jain_dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priya_dev)](https://github.com/anuraghazra/github-readme-stats)
