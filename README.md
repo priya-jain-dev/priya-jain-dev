@@ -15,12 +15,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=priya-jain-dev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priya-jain-dev&layout=compact&theme=material-palenight" />
-</a>
 <!--[![priya_jain_dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priya_dev)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <a href="https://dev.to/priyajain6651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="priyajain6651" height="20" width="20" /></a>
