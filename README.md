@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
 </p>
-
 - 🔭 I’m currently working as Full stack developer
 - 🌱 I’m currently learning Kotlin + Back to Android
 - 👯 I’m looking to collaborate on working on new android projects
