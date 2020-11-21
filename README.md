@@ -4,11 +4,13 @@
 <p align="center">
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="my-personal-project"/>
 </p>
+
 - 🔭 I’m currently working as Full stack developer
 - 🌱 I’m currently learning Kotlin + Back to Android
 - 👯 I’m looking to collaborate on working on new android projects
 - 📫 How to reach me: **priyajain8296@gmail.com**
 - ⚡ Fun fact: Brain is forever a nerd
+
 <!--
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
