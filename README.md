@@ -13,7 +13,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Priya jain</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate self-taught full stack developer from India.</h3>
 <p align="center">
   <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
 </p>
