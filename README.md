@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Priya jain</h1>
-<h3 align="center">A passionate self-taught full stack developer from India.</h3>
+<p align="center">A passionate self-taught full stack developer from India.</p>
 <p align="center">
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="my-personal-project"/>
 </p>
