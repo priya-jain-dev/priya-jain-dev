@@ -53,7 +53,16 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-
+<p align="left">
+<a href="https://priya-jain.hashnode.dev//learning-dns-domain-name-system-with-visual-guide" title="Learning DNS (Domain Name System) with visual guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647619860011/f63-A9w5h.png" alt="Learning DNS (Domain Name System) with visual guide" width="250px" align="left" /></a>
+<a href="https://priya-jain.hashnode.dev//learning-dns-domain-name-system-with-visual-guide" title="Learning DNS (Domain Name System) with visual guide"><strong>Learning DNS (Domain Name System) with visual guide</strong></a>
+<br/> Hey Folks 👋🏻,
+I'm writing this article to share my learning of the #100DaysOfCode challenge where I’m learning Must known things as a developer. This article is all about my Week 2 (Day 08- Day 14) learning where I am exploring a topic that is dire... </p> <br/> <br/>
+<p align="left">
+<a href="https://priya-jain.hashnode.dev//learning-regular-expression-with-visual-guide" title="Learning Regular Expression with visual guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646497577034/yesX6JYc6.png" alt="Learning Regular Expression with visual guide" width="250px" align="left" /></a>
+<a href="https://priya-jain.hashnode.dev//learning-regular-expression-with-visual-guide" title="Learning Regular Expression with visual guide"><strong>Learning Regular Expression with visual guide</strong></a>
+<br/> Hey folks 👋🏻, 
+Well, this is my first article, I am on the #100DaysOfCode challenge where I am learning  Must know things as a developer. This is my week1 learning. So there might be a ton of mistakes as I go along writing it out, so please give me... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ## ⚡ GitHub Activity -->
