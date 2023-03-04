@@ -6,8 +6,6 @@
 
 🌱 Learning **Data structure And Algorithm Fundamentals**, wanting to deep-dive into how things actually work together.
 
-✨ All about the **positive vibes** ✌️
-
 ### ✍️ Blog
 
 <p>
