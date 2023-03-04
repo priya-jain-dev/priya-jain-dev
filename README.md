@@ -4,8 +4,6 @@
 
 ❤️ Passionate about **Development** and **Real life Algorithms**.
 
-💼 Currently working on #100DaysOfCode challenge and weekly articles.
-
 🌱 Learning **Data structure And Algorithm Fundamentals**, wanting to deep-dive into how things actually work together.
 
 ✨ All about the **positive vibes** ✌️
